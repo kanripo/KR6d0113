@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛三昧經論
+#+DATE: 2015-08-30 19:50:11.050265
+#+PROPERTY: JUAN 0

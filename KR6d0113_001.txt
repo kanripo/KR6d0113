@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:10.603147
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 金剛三昧經論
 #+PROPERTY: CBETA_ID T34n1730
 #+PROPERTY: ID KR6d0113

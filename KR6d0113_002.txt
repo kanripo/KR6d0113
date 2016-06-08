@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:10.652852
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 金剛三昧經論
 #+PROPERTY: CBETA_ID T34n1730
 #+PROPERTY: ID KR6d0113
@@ -16,7 +16,7 @@
 ¶
 新羅國沙門元曉述¶
 
-無生行品
+* 無生行品
 :PROPERTIES:
 :head: 無生行品
 :END:
@@ -448,7 +448,7 @@
 論曰。此是第三時眾得益。地前凡夫聞說¶
 此品能得初地無生忍故。¶
 
-本覺利品
+* 本覺利品
 :PROPERTIES:
 :head: 本覺利品
 :END:
@@ -997,7 +997,7 @@
 隨得利故得本覺利。始覺般若平等無異。如¶
 前說故。¶
 
-入實際品
+* 入實際品
 :PROPERTIES:
 :head: 入實際品
 :END:
